@@ -44,3 +44,7 @@ a {
     text-align: center;
     padding: 25px;
 }
+
+.left-content-block {
+    padding-right: 200px;
+}
