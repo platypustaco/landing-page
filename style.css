@@ -24,15 +24,23 @@ a {
     color: #F9FAF8;
 }
 
+.header-links, .hero-text-secondary, .footer {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
 .header-links {
     display: flex;
     gap: 10px;
-    font-size: 18px;
-    color: #E5E7EB;
 }
 
 .hero-text-main {
     font-size: 48px;
     font-weight: 900;
     color: #F9FAF8;
+}
+
+.footer {
+    text-align: center;
+    padding: 25px;
 }
