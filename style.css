@@ -24,7 +24,7 @@ a {
     color: #F9FAF8;
 }
 
-.header-links, .hero-text-secondary, .footer {
+.header-links, .main .text-secondary, .footer {
     font-size: 18px;
     color: #E5E7EB;
 }
@@ -34,7 +34,7 @@ a {
     gap: 10px;
 }
 
-.hero-text-main {
+.main .text-main {
     font-size: 48px;
     font-weight: 900;
     color: #F9FAF8;
