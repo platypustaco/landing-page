@@ -10,6 +10,11 @@
     padding-right: 200px;
 }
 
+.header-logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
 .header-links {
     display: flex;
     gap: 10px;
